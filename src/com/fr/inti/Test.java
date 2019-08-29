@@ -5,8 +5,8 @@ import java.util.Scanner;
 public class Test {
 	private static Scanner scanner = new Scanner(System.in);
 	
-	public int calculSomme(int a, int b) {
-		return a + b;
+	public int calculSomme(int aa, int ba) {
+		return aa + ba;
 	}
 
 	public int calculProduit(int a, int b) {
